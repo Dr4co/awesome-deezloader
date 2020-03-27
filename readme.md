@@ -2,7 +2,7 @@
 # Awesome Deezloader [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Hi everyone, in this small project I wanted to collect in one place the various references to all existing versions of DeezLoader and various similar software.<br>
 The idea of the original project belongs to [duttaditya18](https://gist.github.com/duttaditya18/f366c7694fe50d7c69f8654579112da5), I will try to expand it and organize it more in my own way :)<br>
-As you can see some infos and links are missing, if you have you are free to contribute!
+As you can see some infos and links are missing, if you have you are free to [contribute](https://github.com/WetCork/awesome-deezloader/blob/master/contributing.md)!
 
 ## Contents
 - [Active Deezloader branches](#active-deezloader-branches)
