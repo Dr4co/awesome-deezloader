@@ -197,7 +197,7 @@ This project has been created for integrate deezloader library in a Telegram bot
 
 ### SMLoadr
 
-Status: **Active** *(not sure)*<br>
+Status: **Discontinued** *(Latest release 1.20.0)*<br>
 Available for: **Windows**, **macOS**, **Linux**<br>
 Maintainer: [SMLoadrDev](https://git.fuwafuwa.moe/SMLoadrDev)
 
