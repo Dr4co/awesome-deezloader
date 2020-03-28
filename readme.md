@@ -166,6 +166,7 @@ With this software you can download high-qualiy music and enjoy.
 - Simple and user friendly
 
 #### Links
+**Repository (Archived)** : https://web.archive.org/web/20180418005044/https://github.com/Deezloader/DeezLoader-Reborn<br>
 **Repository (Clone)** : https://github.com/srsgores/DeezLoader-Reborn<br>
 **Download** : **NOT FOUND**<br>
 **Pastebin (Archived)** : https://web.archive.org/web/20180426004459/https://pastebin.com/vJmgv78v
