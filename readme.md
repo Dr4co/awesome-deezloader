@@ -19,6 +19,7 @@ As you can see some infos and links are missing, if you have you are free to [co
   - [SMLoadr](#smloadr)
   - [AIDS](#aids)
   - [Chimera](#chimera)
+  - [Userscript](#userscript)
 
 ## Active Deezloader branches
 
@@ -165,7 +166,7 @@ With this software you can download high-qualiy music and enjoy.
 - Simple and user friendly
 
 #### Links
-**Repository** : **NOT FOUND**<br>
+**Repository (Clone)** : https://github.com/srsgores/DeezLoader-Reborn<br>
 **Download** : **NOT FOUND**<br>
 **Pastebin (Archived)** : https://web.archive.org/web/20180426004459/https://pastebin.com/vJmgv78v
 
@@ -177,7 +178,7 @@ Available for (not sure): **Windows**, **macOS**, **Linux**<br>
 Developer: *ZzMTV*
 
 #### Links
-**Repository** : **NOT FOUND**<br>
+**Repository (Clone)** : https://github.com/steph9009/deezloader-app<br>
 **Download** : **NOT FOUND**
 
 ## Similar software
@@ -261,6 +262,19 @@ Multiple source music downloader
 **Repository** : https://notabug.org/Aesir/chimera<br>
 **Installation** : https://notabug.org/Aesir/chimera#install<br>
 **FAQ** : https://notabug.org/Aesir/chimera/wiki/FAQ
+
+---
+
+### Userscript
+Status: **Active**<br>
+Available for: **Tampermonkey**<br>
+Maintainer: [uh_wot](https://notabug.org/uh_wot)
+
+Download the currently playing song (or any song from the current tracklist) in any chosen format (standard, hq, etc) right to your computer for playing in any player (outside Deezer). Supports HQ even without Premium subscription.
+
+#### Links
+**Repository** : https://notabug.org/uh_wot/dzdownloader<br>
+**Installaton** : https://notabug.org/uh_wot/dzdownloader#how-to-install<br>
 
 ## Disclaimer
 I am not responsible for the usage of this programs by other people.<br>
