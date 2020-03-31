@@ -219,9 +219,9 @@ Better if used in combination with [SMLoadr-AUX](https://github.com/thelucifermo
 #### Links
 **Repository** : https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr<br>
 **Download** : https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr/releases<br>
-**Download (SMLoadr-AUX)** : https://github.com/thelucifermorningstar/SMLoadr-AUX/releases
-**News** : [@SMLoadrNews](https://t.me/SMLoadrNews)
-**Community** : [@SMLoadrCommunity](https://t.me/SMLoadrCommunity)
+**Download (SMLoadr-AUX)** : https://github.com/thelucifermorningstar/SMLoadr-AUX/releases<br>
+**News** : [@SMLoadrNews](https://t.me/SMLoadrNews)<br>
+**Community** : [@SMLoadrCommunity](https://t.me/SMLoadrCommunity)<br>
 **Off-Topic** : [@SMLoadrOffTopic](https://t.me/SMLoadrOffTopic)
 
 ---
