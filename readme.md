@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/X5Z0H0l.png)
 # Awesome Deezloader [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-Hi everyone, in this small project I wanted to collect in one place the various references to all existing versions of DeezLoader and various similar software.<br>
+Hi everyone, in this small project I wanted to collect the various references to all existing versions of DeezLoader and various similar software in one place.<br>
 The idea of the original project belongs to [duttaditya18](https://gist.github.com/duttaditya18/f366c7694fe50d7c69f8654579112da5), I will try to expand it and organize it more in my own way :)<br>
 As you can see some infos and links are missing, if you have you are free to [contribute](https://github.com/WetCork/awesome-deezloader/blob/master/contributing.md)!
 
@@ -20,6 +20,7 @@ As you can see some infos and links are missing, if you have you are free to [co
   - [AIDS](#aids)
   - [Chimera](#chimera)
   - [Userscript](#userscript)
+  - [d-fi](#d-fi)
 
 ## Active Deezloader branches
 
@@ -280,7 +281,34 @@ Download the currently playing song (or any song from the current tracklist) in 
 **Repository** : https://notabug.org/uh_wot/dzdownloader<br>
 **Installaton** : https://notabug.org/uh_wot/dzdownloader#how-to-install<br>
 
+---
+
+### d-fi
+Status: **Active**<br>
+Available for: **Windows**, **macOS**, **Linux**<br>
+Maintainer: [sayem314](https://notabug.org/sayem314)
+
+A program for downloading music from streaming music services.
+
+#### Features
+- Supports single tracks, albums, artists, and playlists
+- Music quality selection (MP3 - 128 kbps, MP3 - 320 kbps, FLAC - 1411 kbps)
+- Auto tagging MP3 & FLAC (including album cover and lyrics)
+- Download a list of links from "downloads.txt"
+- Track search support
+- CLI and module support
+
+##### Download Sources
+- Deezer
+- Tidal
+- Spotify
+
+#### Links
+**Repository** : https://notabug.org/sayem314/d-fi<br>
+**Download** : https://github.com/d-fi/releases/releases<br>
+**Community** : https://t.me/dFiCommunity
+
 ## Disclaimer
-I am not responsible for the usage of this programs by other people.<br>
+I am not responsible for the usage of these programs by other people.<br>
 I do not recommend you doing this illegally or against Deezer's and other streaming service terms of service.<br>
 This project is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
