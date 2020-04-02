@@ -181,7 +181,7 @@ Developer: *ZzMTV*
 
 #### Links
 **Repository (Clone)** : https://github.com/steph9009/deezloader-app<br>
-**Download** : **NOT FOUND**
+**Download (Unofficial)** : https://files.rxyz.rocks/Deezloader/Original%20Deezloader/ (thanks to [TheLastZombie](https://github.com/TheLastZombie))<br>
 
 ## Similar software
 
