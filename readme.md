@@ -12,7 +12,7 @@ As you can see some infos and links are missing, if you have you are free to [co
 - [Discontinued Deezloader branches](#discontinued-deezloader-branches)
   - [Deezloader Remaster](#deezloader-remaster)
   - [Deezloader Reborn](#deezloader-reborn)
-  - [Deezloader Reborn (Older)](#deezLoader-reborn-older)
+  - [Deezloader Reborn (Older)](#deezloader-reborn-older)
   - [Original Deezloader](#original-deezloader)
 - [Similar software](#similar-software)
   - [DeezloaderAn0n_bot](#deezloaderan0n_bot)
@@ -119,7 +119,7 @@ With this software you can download high-qualiy music and enjoy.
 #### Links
 **Repository (Archived)** : https://web.archive.org/web/20180628054644/https://gitlab.com/deezloaderremaster/deezloader-remaster<br>
 **Repository (Clone)** : https://github.com/Superhackman/deezloader-remaster-updated<br>
-**Download** : **NOT FOUND**<br>
+**Download (Unofficial)** : https://files.rxyz.rocks/Deezloader/Deezloader%20Remaster/ (thanks to [TheLastZombie](https://github.com/TheLastZombie))<br>
 **Discord** : https://discord.gg/bmhFhAM
 
 ---
@@ -144,7 +144,7 @@ With this software you can download high-qualiy music and enjoy.
 #### Links
 
 **Repository** : https://git.teknik.io/Ermyas/DeezLoader<br>
-**Download** : **NOT FOUND**<br>
+**Download (Unofficial)** : https://files.rxyz.rocks/Deezloader/Deezloader%20Reborn/ (thanks to [TheLastZombie](https://github.com/TheLastZombie))<br>
 **Telegram** : [@Deezloader](https://t.me/Deezloader)
 
 ---
@@ -169,7 +169,7 @@ With this software you can download high-qualiy music and enjoy.
 #### Links
 **Repository (Archived)** : https://web.archive.org/web/20180418005044/https://github.com/Deezloader/DeezLoader-Reborn<br>
 **Repository (Clone)** : https://github.com/srsgores/DeezLoader-Reborn<br>
-**Download** : **NOT FOUND**<br>
+**Download Unofficial)** : https://files.rxyz.rocks/Deezloader/Deezloader%20Reborn%20%28Older%29/ (thanks to [TheLastZombie](https://github.com/TheLastZombie))<br>
 **Pastebin (Archived)** : https://web.archive.org/web/20180426004459/https://pastebin.com/vJmgv78v
 
 ---
