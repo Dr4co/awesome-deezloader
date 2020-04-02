@@ -169,7 +169,7 @@ With this software you can download high-qualiy music and enjoy.
 #### Links
 **Repository (Archived)** : https://web.archive.org/web/20180418005044/https://github.com/Deezloader/DeezLoader-Reborn<br>
 **Repository (Clone)** : https://github.com/srsgores/DeezLoader-Reborn<br>
-**Download Unofficial)** : https://files.rxyz.rocks/Deezloader/Deezloader%20Reborn%20%28Older%29/ (thanks to [TheLastZombie](https://github.com/TheLastZombie))<br>
+**Download (Unofficial)** : https://files.rxyz.rocks/Deezloader/Deezloader%20Reborn%20%28Older%29/ (thanks to [TheLastZombie](https://github.com/TheLastZombie))<br>
 **Pastebin (Archived)** : https://web.archive.org/web/20180426004459/https://pastebin.com/vJmgv78v
 
 ---
