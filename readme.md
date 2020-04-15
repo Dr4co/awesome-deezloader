@@ -6,6 +6,8 @@ As you can see some infos and links are missing, if you have you are free to [co
 
 ## Contents
 - [Active Deezloader branches](#active-deezloader-branches)
+  - [deemix](#deemix)
+  - [deemix on Docker](#deemix-on-docker)
   - [Deezloader Android](#deezloader-android)
 - [Discontinued Deezloader branches](#discontinued-deezloader-branches)
   - [Deezloader Remix](#deezloader-remix)
@@ -23,6 +25,32 @@ As you can see some infos and links are missing, if you have you are free to [co
   - [d-fi](#d-fi)
 
 ## Active Deezloader branches
+
+### deemix
+Status **Active**<br>
+Available for: **Python**<br>
+Maintainer: [RemixDev](https://notabug.org/RemixDev)
+
+#### Links
+**Repository** : https://notabug.org/RemixDev/deemix
+
+---
+
+### deemix on Docker
+Status: **Active**<br>
+Available for: **Docker**<br>
+Maintainer: [Bockiii](https://www.reddit.com/user/Bockiii)
+
+Deemix in a Docker container.
+
+#### Features
+Allows you to run Deemix on a Docker container. Useful for people who own a Media Server. Information regarding setting it up is present in the [README](https://github.com/Bockiii/deemix-docker/blob/master/README.md) of the project.
+
+#### Links
+**Repository** : https://github.com/Bockiii/deemix-docker<br>
+**Docker Hub** : https://hub.docker.com/r/bocki/deemix
+
+---
 
 ### Deezloader Android
 Status: **Active**<br>
