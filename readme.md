@@ -72,7 +72,7 @@ Thanks to the power of the recent [Node.js for Mobile Apps](https://github.com/j
 ## Discontinued Deezloader branches
 
 ### Deezloader Remix
-Status: **Discontinued**<br>
+Status: **Discontinued** *(Latest release 4.4.0)*<br>
 Available for: **Windows**, **macOS**, **Linux**<br>
 Maintainer: [RemixDevs](https://notabug.org/RemixDevs)
 
