@@ -6,10 +6,10 @@ As you can see some infos and links are missing, if you have you are free to [co
 
 ## Contents
 - [Active Deezloader branches](#active-deezloader-branches)
-  - [Deezloader Remix](#deezloader-remix)
   - [Deezloader Android](#deezloader-android)
-  - [Deezloader Remix on Docker](#deezloader-remix-on-docker)
 - [Discontinued Deezloader branches](#discontinued-deezloader-branches)
+  - [Deezloader Remix](#deezloader-remix)
+  - [Deezloader Remix on Docker](#deezloader-remix-on-docker)
   - [Deezloader Remaster](#deezloader-remaster)
   - [Deezloader Reborn](#deezloader-reborn)
   - [Deezloader Reborn (Older)](#deezloader-reborn-older)
@@ -24,8 +24,27 @@ As you can see some infos and links are missing, if you have you are free to [co
 
 ## Active Deezloader branches
 
-### Deezloader Remix
+### Deezloader Android
 Status: **Active**<br>
+Available for: **Android**<br>
+Maintainer: [Nick80835](https://gitlab.com/Nick80835)
+
+Based on [Deezloader Remix](#deezloader-remix).<br>
+Thanks to the power of the recent [Node.js for Mobile Apps](https://github.com/janeasystems/nodejs-mobile), I'm glad to present to you the adapted version of Deezloader for Android! Now you can forget about the Termux method to run this tool; just install the apk and you're ready to go!
+
+#### Features
+- Same as the desktop version, but adapted for the small screens.
+
+#### Links
+**Repository** : https://gitlab.com/Nick80835/DeezLoader-Android<br>
+**Download** : https://gitlab.com/Nick80835/DeezLoader-Android/tree/master/Release<br>
+**News and Builds** : [@DeezloaderAndroid](https://t.me/DeezloaderAndroid)<br>
+**Help and Discussion** : [DeezloaderAndroidCommunity](https://t.me/joinchat/Ed1JxEfoci8sv2dVwTUQ3A)
+
+## Discontinued Deezloader branches
+
+### Deezloader Remix
+Status: **Discontinued**<br>
 Available for: **Windows**, **macOS**, **Linux**<br>
 Maintainer: [RemixDevs](https://notabug.org/RemixDevs)
 
@@ -59,27 +78,8 @@ With this app you can download songs, playlists and albums directly from Deezer'
 
 ---
 
-### Deezloader Android
-Status: **Active**<br>
-Available for: **Android**<br>
-Maintainer: [Nick80835](https://gitlab.com/Nick80835)
-
-Based on [Deezloader Remix](#deezloader-remix).<br>
-Thanks to the power of the recent [Node.js for Mobile Apps](https://github.com/janeasystems/nodejs-mobile), I'm glad to present to you the adapted version of Deezloader for Android! Now you can forget about the Termux method to run this tool; just install the apk and you're ready to go!
-
-#### Features
-- Same as the desktop version, but adapted for the small screens.
-
-#### Links
-**Repository** : https://gitlab.com/Nick80835/DeezLoader-Android<br>
-**Download** : https://gitlab.com/Nick80835/DeezLoader-Android/tree/master/Release<br>
-**News and Builds** : [@DeezloaderAndroid](https://t.me/DeezloaderAndroid)<br>
-**Help and Discussion** : [DeezloaderAndroidCommunity](https://t.me/joinchat/Ed1JxEfoci8sv2dVwTUQ3A)
-
----
-
 ### Deezloader Remix on Docker
-Status: **Active**<br>
+Status: **Discontinued**<br>
 Available for: **Docker**<br>
 Maintainer: [Bockiii](https://www.reddit.com/user/Bockiii)
 
@@ -92,7 +92,7 @@ Allows you to run Deezloader Remix on a Docker container. Useful for people who 
 **Repository** : https://github.com/Bockiii/deezloadermx-docker<br>
 **Docker Hub** : https://hub.docker.com/r/bocki/deezloaderrmx
 
-## Discontinued Deezloader branches
+---
 
 ### Deezloader Remaster
 Status: **Abandoned** *(Latest release 4.1.2)*<br>
